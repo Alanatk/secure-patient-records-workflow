@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alanatk/secure-patient-records-workflow.git/static/css/main.1f2a0a4b.css",
+    "main.js": "/Alanatk/secure-patient-records-workflow.git/static/js/main.4daad9a8.js",
+    "static/js/453.730e328a.chunk.js": "/Alanatk/secure-patient-records-workflow.git/static/js/453.730e328a.chunk.js",
+    "index.html": "/Alanatk/secure-patient-records-workflow.git/index.html",
+    "main.1f2a0a4b.css.map": "/Alanatk/secure-patient-records-workflow.git/static/css/main.1f2a0a4b.css.map",
+    "main.4daad9a8.js.map": "/Alanatk/secure-patient-records-workflow.git/static/js/main.4daad9a8.js.map",
+    "453.730e328a.chunk.js.map": "/Alanatk/secure-patient-records-workflow.git/static/js/453.730e328a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2a0a4b.css",
+    "static/js/main.4daad9a8.js"
+  ]
+}
